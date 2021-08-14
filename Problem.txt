@@ -1,1 +1,11 @@
-Deep
+Create a Simple Library Management Application
+You can create tables as per your understanding.
+You have to complete the task in 10 Days.
+You can develop in any language.
+
+Business rules
+1. A student can have only one Library Card
+2. A Student can issue only two books on a Library Card
+3. Issued books have 10 days validity. After that its becomes due and a report is required of due books
+4. If book returned with 10 days - no fees. After 10 days it should calculate and show dues @ Rs5/day.
+5. At the time of return, option for Lost/Damaged and book should not be issued again.
